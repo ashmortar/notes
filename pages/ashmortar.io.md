@@ -8,4 +8,4 @@ title: ashmortar.io
 #### [[gtag.js]] (analytics)
 #### [[netlify]]
 #### [[algolia]]
-####
+#### [[UptimeRobot]]

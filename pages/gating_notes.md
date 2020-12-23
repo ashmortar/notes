@@ -52,7 +52,6 @@
 :END:
 - Accepting gatingML xml files?
 - Expected User Output
--
 ### References:
 :PROPERTIES:
 :heading: true

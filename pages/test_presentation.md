@@ -10,6 +10,7 @@ title: test presentation
 ### this is sub-slide 2
 ## This is the second slide, which isn't a "header"
 ## This is the third slide:
+:::
 ```javascript
 const thing = (otherThing) => ()
   doStuff(otherThing)

@@ -12,6 +12,8 @@
 ### Population Gating / Clustering
 - Bead ID
 - 1D vs 2D
+- copying gates across files
+- error checking
 ### CBA Plugin
 ###
 ---

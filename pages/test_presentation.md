@@ -10,10 +10,10 @@ title: test presentation
 ### this is sub-slide 2
 ## This is the second slide, which isn't a "header"
 ## This is the third slide:
-```javascript title="/page.js"
+```javascript
 const thing = (otherThing) => ()
   doStuff(otherThing)
 )
-```f
+```
 ## This is the fourth slide:
 <img src="https://ashmortar.io/img/knowledge_graph.png" />

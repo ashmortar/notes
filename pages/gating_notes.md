@@ -28,6 +28,9 @@
 - copying gates across files
 - error checking
 ## CBA Plugin
+:PROPERTIES:
+:heading: true
+:END:
 - undefined classes in `FlowJoPeakFinderClustering`:
 ```java
         // Create a discrete function from the histogram array.

@@ -7,5 +7,5 @@ title: Gating Notes
 :heading: true
 :END:
 1. Extract events from fcs files
-2. process according to info in fcs file
-3.
+2. Process dimensions to info in fcs file
+3. Apply compensation matrix if exists

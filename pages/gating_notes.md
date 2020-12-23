@@ -7,9 +7,9 @@
 :PROPERTIES:
 :heading: true
 :END:
-1. Extract events from fcs files
-2. Process dimensions to info in fcs file
-3. Apply compensation matrix if exists
+1. DONE Extract events from fcs files
+2. DONE Process dimensions to info in fcs file
+3. DONE Apply compensation matrix if exists
 ## Questions/Topics:
 :PROPERTIES:
 :heading: true

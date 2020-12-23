@@ -9,16 +9,16 @@
 - Debris Filterinig
 - Population Gating / Clustering
 - CBA Plugin
-### Debris Filtering
+## Debris Filtering
 - does this need to happen before auto gating/custering?
 - Appropriate auto gating / clustering strategies
 - error checking
-### Population Gating / Clustering
+## Population Gating / Clustering
 - Bead ID
 - 1D vs 2D
 - copying gates across files
 - error checking
-### CBA Plugin
+## CBA Plugin
 - undefined classes in `FlowJoPeakFinderClustering`:
 ```java
         // Create a discrete function from the histogram array.

@@ -16,4 +16,4 @@ const thing = (otherThing) => ()
 )
 ```
 ## This is the fourth slide:
-<img src="" />
+<img src="https://ashmortar.io/img/knowledge_graph.png" />

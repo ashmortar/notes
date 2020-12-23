@@ -9,6 +9,7 @@
 ### Debris Filtering
 - does this need to happen before auto gating/custering?
 - Appropriate auto gating / clustering strategies
+- error checking
 ### Population Gating / Clustering
 - Bead ID
 - 1D vs 2D

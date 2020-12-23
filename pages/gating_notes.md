@@ -6,6 +6,9 @@
 2. Process dimensions to info in fcs file
 3. Apply compensation matrix if exists
 ## Questions/Topics:
+:PROPERTIES:
+:heading: true
+:END:
 - Debris Filterinig
 - Population Gating / Clustering
 - CBA Plugin

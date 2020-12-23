@@ -6,6 +6,9 @@
 2. Process dimensions to info in fcs file
 3. Apply compensation matrix if exists
 ## Questions/Topics:
+- Debris Filterinig
+- Population Gating / Clustering
+- CBA Plugin
 ### Debris Filtering
 - does this need to happen before auto gating/custering?
 - Appropriate auto gating / clustering strategies

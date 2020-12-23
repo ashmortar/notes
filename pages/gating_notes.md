@@ -21,10 +21,10 @@
 :PROPERTIES:
 :heading: true
 :END:
-- does this need to happen before auto gating/custering?
+- Does this need to happen before auto gating/custering?
 - Appropriate auto gating / clustering strategies
 - Expected user flow
- - error checking
+- Error checking
 ### Population Gating / Clustering
 :PROPERTIES:
 :heading: true

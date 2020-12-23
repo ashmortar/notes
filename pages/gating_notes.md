@@ -7,11 +7,11 @@
 :PROPERTIES:
 :heading: true
 :END:
-1. Extract events from fcs files ✅
-2. Process dimensions to info in fcs file ✅
-3. Apply compensation matrix if exists ✅
-4. Apply data transforms ☐
-5. Apply gates ☐
+1. Extract events from fcs files                  ✅
+2. Process dimensions to info in fcs file   ✅
+3. Apply compensation matrix if exists     ✅
+4. Apply data transforms                           ☐
+5. Apply gates                                            ☐
 ## Questions/Topics:
 :PROPERTIES:
 :heading: true

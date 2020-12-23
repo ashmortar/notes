@@ -15,3 +15,5 @@ const thing = (otherThing) => ()
   doStuff(otherThing)
 )
 ```
+## This is the fourth slide:
+<img src="" />

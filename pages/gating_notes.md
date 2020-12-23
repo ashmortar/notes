@@ -47,6 +47,9 @@
 ```
 - 2dDensityGate --- [FlowGrid](https://github.com/VCCRI/FlowGrid)
 ### References
+:PROPERTIES:
+:heading: true
+:END:
 ---
 title: Gating Notes
 ---

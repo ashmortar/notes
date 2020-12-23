@@ -2,4 +2,4 @@
 title: Gating Notes
 ---
 
-## 
+##

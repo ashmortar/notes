@@ -46,10 +46,11 @@
         PeakList peakList = PF.findPeaks(PeakFinder.PeakFind_IgnoreBottom15Percent);
 ```
 - 2dDensityGate --- [FlowGrid](https://github.com/VCCRI/FlowGrid)
-### References
+### References:
 :PROPERTIES:
 :heading: true
 :END:
+- http://flowcyt.sourceforge.net/gating/latest.pdf
 ---
 title: Gating Notes
 ---

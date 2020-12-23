@@ -10,9 +10,9 @@ title: test presentation
 ### this is sub-slide 2
 ## This is the second slide, which isn't a "header"
 ## This is the third slide:
-#+BEGIN_WARNING
-warning
-#+END_WARNING 
+#+BEGIN_QUOTE
+test the quote
+#+END_QUOTE 
 ```javascript
 const thing = (otherThing) => ()
   doStuff(otherThing)

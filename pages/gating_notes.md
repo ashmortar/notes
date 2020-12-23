@@ -20,9 +20,10 @@
 ```java
         // Create a discrete function from the histogram array.
         DiscreteFunction DF = new DiscreteFunction(histogramData);
-
         // Create a PeakFinder object using the discrete function.
         PeakFinder PF = new PeakFinder(DF);
+        // Create a PeakList to store the peaks found from PeakFinder().
+        PeakList peakList = PF.findPeaks(PeakFinder.PeakFind_IgnoreBottom15Percent);
 ```
 - 2dDensityGate --- [FlowGrid](https://github.com/VCCRI/FlowGrid)
 ###

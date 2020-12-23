@@ -31,8 +31,8 @@
 :END:
 - Bead ID
 - 1D vs 2D
-- copying gates across files
-- error checking
+- Copying gates across files
+- Error checking
 ### CBA Plugin
 :PROPERTIES:
 :heading: true

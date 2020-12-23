@@ -7,6 +7,9 @@
 3. Apply compensation matrix if exists
 ## Questions/Topics:
 ### Debris Filtering
+- does this need to happen before auto gating/custering?
+- Appropriate auto gating / clustering strategies
+###
 ---
 title: Gating Notes
 ---

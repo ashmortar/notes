@@ -16,6 +16,7 @@
 - copying gates across files
 - error checking
 ### CBA Plugin
+- 2dDensityGate --- [FlowGrid](https://github.com/VCCRI/FlowGrid)
 ###
 ---
 title: Gating Notes

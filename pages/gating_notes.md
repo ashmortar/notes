@@ -10,7 +10,6 @@
 1. Extract events from fcs files ✅
 2. Process dimensions to info in fcs file ✅
 3. Apply compensation matrix if exists ✅
-4
 ## Questions/Topics:
 :PROPERTIES:
 :heading: true
@@ -22,18 +21,17 @@
 :PROPERTIES:
 :heading: true
 :END:
-- Does this need to happen before auto gating/custering?
+- does this need to happen before auto gating/custering?
 - Appropriate auto gating / clustering strategies
-- Expected user flow
-- Error checking
+- error checking
 ### Population Gating / Clustering
 :PROPERTIES:
 :heading: true
 :END:
 - Bead ID
 - 1D vs 2D
-- Copying gates across files
-- Error checking
+- copying gates across files
+- error checking
 ### CBA Plugin
 :PROPERTIES:
 :heading: true
@@ -47,7 +45,8 @@
         // Create a PeakList to store the peaks found from PeakFinder().
         PeakList peakList = PF.findPeaks(PeakFinder.PeakFind_IgnoreBottom15Percent);
 ```
-- 2dDensityGate --- [FlowGrid](https://github.com/VCCRI/FlowGrid)??
+- 2dDensityGate --- [FlowGrid](https://github.com/VCCRI/FlowGrid)
+###
 ---
 title: Gating Notes
 ---

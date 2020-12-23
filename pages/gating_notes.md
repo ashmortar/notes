@@ -11,7 +11,7 @@
 - Appropriate auto gating / clustering strategies
 ### Population Gating / Clustering
 - Bead ID
--
+- 1D vs 2D
 ### CBA Plugin
 ###
 ---

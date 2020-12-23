@@ -9,7 +9,9 @@
 ### Debris Filtering
 - does this need to happen before auto gating/custering?
 - Appropriate auto gating / clustering strategies
+###
 ### CBA Plugin
+###
 ---
 title: Gating Notes
 ---

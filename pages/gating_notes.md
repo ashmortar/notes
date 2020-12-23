@@ -32,10 +32,6 @@
 - 1D vs 2D
 - copying gates across files
 - error checking
-### Regression:
-:PROPERTIES:
-:heading: true
-:END:
 ### CBA Plugin
 :PROPERTIES:
 :heading: true

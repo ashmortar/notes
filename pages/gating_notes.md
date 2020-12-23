@@ -16,6 +16,14 @@
 - copying gates across files
 - error checking
 ### CBA Plugin
+- undefined classes in `FlowJoPeakFinderClustering`:
+```java
+        // Create a discrete function from the histogram array.
+        DiscreteFunction DF = new DiscreteFunction(histogramData);
+
+        // Create a PeakFinder object using the discrete function.
+        PeakFinder PF = new PeakFinder(DF);
+```
 - 2dDensityGate --- [FlowGrid](https://github.com/VCCRI/FlowGrid)
 ###
 ---

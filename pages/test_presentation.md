@@ -23,5 +23,7 @@ const thing = (otherThing) => ()
 <img src="https://ashmortar.io/img/knowledge_graph.png" />
 ##
 :PROPERTIES:
-:: 
+:autoplay: true 
 :END:
+@@HTML<video src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" />
+##

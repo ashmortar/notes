@@ -26,5 +26,3 @@ const thing = (otherThing) => ()
 :autoplay: true 
 :END:
 <video src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" />
-##
-##

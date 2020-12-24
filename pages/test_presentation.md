@@ -11,6 +11,9 @@ title: test presentation
 :transition: zoom 
 :END:
 ### this is sub-slide 2
+:PROPERTIES:
+:transition: zoom 
+:END:
 ## This is the second slide, which isn't a "header"
 ## This is the third slide:
 :PROPERTIES:

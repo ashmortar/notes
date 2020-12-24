@@ -25,4 +25,6 @@ const thing = (otherThing) => ()
 :PROPERTIES:
 :autoplay: true 
 :END:
-<video src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" />
+#+BEGIN_SRC 
+<video src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"></video>
+#+END_SRC

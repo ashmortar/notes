@@ -219,6 +219,9 @@ mark {
   background: transparent;
 }
 
+
+/* overrides */
+
 /*=== h1 h2 ====*/
 .dark-theme .page-references h2, .dark-theme h1.title {
     color: var(--text-accent);

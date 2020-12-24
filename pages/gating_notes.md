@@ -16,7 +16,7 @@
 :PROPERTIES:
 :heading: true
 :END:
-- Debris Filterinig
+- Debris Filtering
 - Population Gating / Clustering
 - CBA Plugin
 ### Debris Filtering

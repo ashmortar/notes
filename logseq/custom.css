@@ -18,14 +18,7 @@
   --cyan-hover: #8be9fd88;
   --pink: #ff79c6;
   --pink-hover: #ff79c688;
-  --text-color: #BEBEBF;
-  --text-muted: #BEBEBF;
-  --text-hover:#feb86cd4;
-  --text-accent:#BEBEBF;
-  --text-accent2:#BEBEBF;
-  --text-contrast:#BEBEBF;
-  --text-accent3: #feb86cd4;
-  --text-links: #94c862c9;
+
   --ls-tag-text-opacity: 0.8;
   --ls-tag-text-hover-opacity: 0.8;
   --ls-page-text-size: 14px;
@@ -59,8 +52,8 @@
   --ls-block-highlight-color: var(--current-line);
   --ls-block-properties-background-color: var(--light-background);
 
-  --ls-page-checkbox-color: var(--purple-hover);
-  --ls-page-checkbox-border-color: var(--lighter-background);
+  --ls-page-checkbox-color: transparent;
+  --ls-page-checkbox-border-color: var(--comment);
   --ls-page-blockquote-color: var(--foreground);
   --ls-page-blockquote-bg-color: var(--light-background);
   --ls-page-blockquote-border-color: var(--yellow);
@@ -76,13 +69,12 @@
   --ls-a-chosen-bg: var(--light-background);
   --ls-right-sidebar-code-bg-color: var(--light-background);
 }
-document,
+
 html,
 body {
-  font-weight: 200!important;
-  letter-spacing: 0.002em!important;
-  line-height: 1.5!important;
-  background: var(--background)!important;
+  font-weight: 200;
+  letter-spacing: 0.002em;
+  line-height: 1.5;
 }
 
 i {
@@ -98,15 +90,11 @@ mark {
 }
 
 /*
-
     Name:       dracula
     Author:     Michael Kaminsky (http://github.com/mkaminsky11)
     Adapted:    Sly Bouhafs
-
-
     Original dracula color scheme by Zeno Rocha (https://github.com/zenorocha/dracula-theme)
     Adapted to logseq
-
 */
 
 .CodeMirror {
@@ -218,38 +206,4 @@ mark {
 
 #right-sidebar pre.CodeMirror-line {
   background: transparent;
-}
-
-
-/* overrides */
-/* === page ref [[]]===*/
-span.page-reference a.page-ref {
-    color:#feb86cd4;    
-    }
-/* === page ref title ===*/
-div.hd-control a.page-ref {
-    color:#BEBEBF;    
-    }
-/* === links ====*/ 	
-.dark-theme .content a {
-    color:#94c862c9;
-}
-/* === checkboxes ===*/
-.form-checkbox {
-    display: inline-block;
-    vertical-align: middle;
-    background-origin: border-box;
-    user-select: none;
-    flex-shrink: 0;
-    height: 1rem;
-    width: 1rem;
-    border-color: var(--text-accent2) !important;
-	background-color: var(--bgcolor-alt2) !important;
-    border-width: 1px;
-    border-radius: 50%;
-}
-
-.dark-theme tr:nth-child(2n),
-.dark-theme tr:nth-child(2n+1) {
-    background: var(--bgcolor-alt);
 }

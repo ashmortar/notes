@@ -11,6 +11,9 @@
 - Population Gating / Clustering
 - CBA Plugin
 ### Debris Filtering
+:PROPERTIES:
+:heading: true
+:END:
 - does this need to happen before auto gating/custering?
 - Appropriate auto gating / clustering strategies
 - error checking

@@ -218,3 +218,39 @@ mark {
 #right-sidebar pre.CodeMirror-line {
   background: transparent;
 }
+
+/*=== h1 h2 ====*/
+.dark-theme .page-references h2, .dark-theme h1.title {
+    color: var(--text-accent);
+}
+/* === page ref [[]]===*/
+span.page-reference a.page-ref {
+    color:#feb86cd4;    
+    }
+/* === page ref title ===*/
+div.hd-control a.page-ref {
+    color:#BEBEBF;    
+    }
+/* === links ====*/ 	
+.dark-theme .content a {
+    color:#94c862c9;
+}
+/* === arrow block unfold ====*/ 	
+a.block-control {
+    color:#feb86cd4!important;
+}
+/*=== highlights ====*/
+mark {
+    background: var(--highlight);
+}
+/* === bullets ====*/ 	
+.dark-theme .bullet-container .bullet {
+    background-color: var(--text-accent2);
+}
+.dark-theme .bullet-closed {
+    background-color: #bebebf42;
+}
+a.tag {
+    opacity: 0.92;
+	color: #feb86cd4 !important;
+}

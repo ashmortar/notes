@@ -19,11 +19,13 @@
   --purple-hover: #bf93f980;
   --cyan: #8be9fd;
   --cyan-hover: #8be9fd80;
+  --greenish: #94c862;
+  --greenish-hover: #94c862c9;
   --pink: #ff79c6;
   --pink-hover: #ff79c680;
 
   --gold:#feb86c;
-  --gold-dard:#ff992b;
+  --gold-dark:#ff992b;
   --text-accent:#BEBEBF;
   --text-accent2:#BEBEBF;
   --text-contrast:#BEBEBF;
@@ -67,8 +69,8 @@
   --ls-link-text-color: var(--pink);
   --ls-link-text-hover-color: var(--pink-hover);
 
-  --ls-link-ref-text-color: var(--pink);
-  --ls-link-ref-text-hover-color: var(--pink-hover);
+  --ls-link-ref-text-color: var(--gold);
+  --ls-link-ref-text-hover-color: var(--gold-darker);
   --ls-block-ref-link-text-color: var(--ls-border-color);
 
   --ls-tag-text-color: var(--purple);

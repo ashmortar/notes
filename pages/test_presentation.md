@@ -16,7 +16,8 @@ title: test presentation
 ## This is the second slide, which isn't a "header"
 ##
 :PROPERTIES:
-:background-iframe: https://slides.com 
+:background-iframe: https://slides.com
+:background-interactive: true 
 :END:
 ## This is the third slide:
 :PROPERTIES:

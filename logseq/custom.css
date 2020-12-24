@@ -139,13 +139,13 @@ mark {
 }
 
 .external-link {
-  color: var(--cyan);
+  color: var(--greenish);
   text-decoration: none;
   border-bottom: none;
 }
 
 .external-link:hover {
-  color: var(--cyan-hover);
+  color: var(--greenish-hover);
 }
 
 .ls-block h1,

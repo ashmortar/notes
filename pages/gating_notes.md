@@ -1,12 +1,18 @@
 ## Gating and Clustering
 <small>December 23, 2020</small>
 ### Order of Operations:
+:PROPERTIES:
+:heading: true
+:END:
 1. ✅ - Extract events from fcs files
 2. ✅ - Process dimensions to info in fcs file
 3. ✅ - Apply compensation matrix if exists
 4. ☐ -- Apply data transforms                           
 5. ☐ -- Apply gates
 ## Questions/Topics:
+:PROPERTIES:
+:heading: true
+:END:
 - Debris Filtering
 - Population Gating / Clustering
 - CBA Plugin

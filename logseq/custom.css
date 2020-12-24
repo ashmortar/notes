@@ -76,7 +76,7 @@
   --ls-a-chosen-bg: var(--light-background);
   --ls-right-sidebar-code-bg-color: var(--light-background);
 }
-
+document,
 html,
 body {
   font-weight: 200;

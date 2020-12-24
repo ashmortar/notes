@@ -8,10 +8,14 @@ title: test presentation
 :END:
 ###
 $$ J(\theta_0,\theta_1) = \sum_{i=0} $$
+
+:PROPERTIES:
+:transition: concave-in convex-out
+:END:
 ### this is sub-slide 2
 #### - sub sub 1
 :PROPERTIES:
-:transition: fade
+:transition: concave-in convex-out
 :END:
 #### - video background?
 :PROPERTIES:

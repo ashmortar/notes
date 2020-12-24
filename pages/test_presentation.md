@@ -8,7 +8,7 @@ title: test presentation
 ###
 $$ J(\theta_0,\theta_1) = \sum_{i=0} $$
 :PROPERTIES:
-:transition: concave
+:transition: convex-in concave-out
 :END:
 ### this is sub-slide 2
 #### - sub sub 1

@@ -1,12 +1,11 @@
-
-  {:journal-basis "daily" 
+{:journal-basis "daily" 
 
  :project {
            ;; Selected public notes can be published to https://logseq.com/your-project-or-your-username.
-           :name ""
-           :alias ""
+           :name "Aaron Ross"
+           :alias "ashmortar"
            ;; your twitter handle
-           :twitter ""
+           :twitter "Gondo_plus"
            ;; description supports both hiccup and html
            :description ""}
 

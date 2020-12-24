@@ -80,9 +80,9 @@ document,
 html,
 body {
   font-weight: 200;
-  letter-spacing: 0.002em!important;
-  line-height: 1.5!important;
-  background: var(--background)!important;
+  letter-spacing: 0.002em;
+  line-height: 1.5;
+  background: var(--background);
 }
 
 i {

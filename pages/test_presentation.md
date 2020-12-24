@@ -10,7 +10,6 @@ title: test presentation
 ### this is sub-slide 1
 ## This is the second slide, which isn't a "header" 
 :PROPERTIES:
-:auto-animate: true
 :END:
 ## This is the third slide:
 :PROPERTIES:

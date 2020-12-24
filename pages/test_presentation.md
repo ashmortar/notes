@@ -10,6 +10,9 @@ title: test presentation
 ### this is sub-slide 2
 #### - sub sub 1
 #### - sub sub 2
+:PROPERTIES:
+:background-video:  
+:END:
 ## This is the second slide, which isn't a "header"
 ## This is the third slide:
 :PROPERTIES:

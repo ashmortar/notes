@@ -1,12 +1,3 @@
-/* ==UserStyle==
-@name           Logseq-dark-dale502
-@namespace      https://github.com/dale502/logseq-dark-hpx
-@version        0.1.5
-@description    alternate dark mode for logseq by dale502
-@author         _ph / www.hpx1.com / Dale 502
-@updateURL      https://raw.githubusercontent.com/dale502/logseq-dark-hpx/master/logseq-dark-dale502.user.css
-==/UserStyle== */
-
 :root {
   --bgcolor: #252528;
   --bgcolor-alt: #202023;

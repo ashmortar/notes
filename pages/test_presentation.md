@@ -7,7 +7,6 @@ title: test presentation
 :END:
 ###
 $$ J(\theta_0,\theta_1) = \sum_{i=0} $$
-
 :PROPERTIES:
 :transition: concave
 :END:

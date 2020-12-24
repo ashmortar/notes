@@ -15,7 +15,12 @@ title: test presentation
 :transition: zoom 
 :END:
 ## This is the second slide, which isn't a "header"
+### But we can see math:
 ###
+$$
+\frac{1}{\Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{\frac25 \pi}} = 1+\frac{e^{-2\pi}} 
+{1+\frac{e^{-4\pi}} {1+\frac{e^{-6\pi}} {1+\frac{e^{-8\pi}} {1+\cdots} } } }
+$$
 ## This is the third slide:
 :PROPERTIES:
 :background-image: https://ashmortar.io/img/knowledge_graph.png

@@ -1,7 +1,4 @@
 ## Gating and Clustering
-:PROPERTIES:
-:heading: true
-:END:
 <small>December 23, 2020</small>
 ### Order of Operations:
 :PROPERTIES:

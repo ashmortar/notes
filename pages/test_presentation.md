@@ -14,6 +14,7 @@ title: test presentation
 :background-video: https://static.slid.es/site/homepage/v1/homepage-video-editor.mp4
 :END:
 ## This is the second slide, which isn't a "header"
+##
 ## This is the third slide:
 :PROPERTIES:
 :background-image: https://ashmortar.io/img/knowledge_graph.png

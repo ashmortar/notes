@@ -15,6 +15,9 @@ title: test presentation
 :transition: zoom 
 :END:
 ## This is the second slide, which isn't a "header"
+:PROPERTIES:
+:transition: zoom-out fade-in 
+:END:
 ### But we can see math:
 ###
 $$

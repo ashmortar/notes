@@ -4,13 +4,13 @@ title: test presentation
 
 ## This is the first slide:
 :PROPERTIES:
-:transition: concave-in convex-out
+:transition: concave
 :END:
 ###
 $$ J(\theta_0,\theta_1) = \sum_{i=0} $$
 
 :PROPERTIES:
-:transition: concave-in convex-out
+:transition: concave
 :END:
 ### this is sub-slide 2
 #### - sub sub 1

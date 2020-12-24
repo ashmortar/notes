@@ -1,0 +1,91 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://logseq.com",
+  "elements": [
+    {
+      "id": "D_18imlxAbwdjq487vR-F",
+      "type": "rectangle",
+      "x": 476.1292724609375,
+      "y": 203.69650268554688,
+      "width": 131.3631591796875,
+      "height": 92.97360229492188,
+      "angle": 0,
+      "strokeColor": "#364fc7",
+      "backgroundColor": "#fa5252",
+      "fillStyle": "hachure",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 165012262,
+      "version": 45,
+      "versionNonce": 1745998118,
+      "isDeleted": false
+    },
+    {
+      "id": "xhKFRuOqt5YF4IZb_ExQl",
+      "type": "line",
+      "x": 367.46136474609375,
+      "y": 261.1983947753906,
+      "width": 107.69049072265625,
+      "height": 134.80352783203125,
+      "angle": 0,
+      "strokeColor": "#364fc7",
+      "backgroundColor": "#fa5252",
+      "fillStyle": "hachure",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 2044313082,
+      "version": 140,
+      "versionNonce": 1549838970,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          69.4586181640625,
+          50.17681884765625
+        ],
+        [
+          30.251220703125,
+          36.963134765625
+        ],
+        [
+          70.49560546875,
+          109.037109375
+        ],
+        [
+          65.4049072265625,
+          120.62255859375
+        ],
+        [
+          99.2086181640625,
+          100.2510986328125
+        ],
+        [
+          107.69049072265625,
+          132.56512451171875
+        ],
+        [
+          62.55413818359375,
+          134.80352783203125
+        ]
+      ],
+      "lastCommittedPoint": [
+        62.55413818359375,
+        134.80352783203125
+      ]
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#FFF",
+    "gridSize": null
+  }
+}

@@ -237,15 +237,3 @@ div.hd-control a.page-ref {
 a.block-control {
     color:#feb86cd4!important;
 }
-
-/* === bullets ====*/ 	
-.dark-theme .bullet-container .bullet {
-    background-color: var(--text-accent2);
-}
-.dark-theme .bullet-closed {
-    background-color: #bebebf42;
-}
-a.tag {
-    opacity: 0.92;
-	color: #feb86cd4 !important;
-}

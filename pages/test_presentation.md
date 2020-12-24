@@ -17,7 +17,7 @@ title: test presentation
 ## This is the second slide, which isn't a "header"
 ##
 :PROPERTIES:
-:background-iframe: https://ashmortar.io/blog 
+:background-iframe: https://slides.com 
 :END:
 ## This is the third slide:
 :PROPERTIES:

@@ -2,7 +2,7 @@
 title: ashmortar.io
 ---
 
-## https://ashmortar.ios
+## https://ashmortar.io
 ### [[docusaurus]]
 #### [[mdx]]
 #### [[gtag.js]] (analytics)

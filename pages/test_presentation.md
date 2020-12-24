@@ -18,7 +18,7 @@ $$ J(\theta_0,\theta_1) = \sum_{i=0} $$
 #### - video background?
 :PROPERTIES:
 :background-video: https://static.slid.es/site/homepage/v1/homepage-video-editor.mp4
-:transition: concave
+:transition: convex-in concave-out
 :END:
 ## This is the second slide, which isn't a "header"
 ##

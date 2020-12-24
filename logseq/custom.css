@@ -258,7 +258,7 @@ mark {
   color: var(--green);
 }
 .cm-s-default span.cm-property {
-  color: var(--cyan);
+  color: var(--greenish);
 }
 .cm-s-default span.cm-builtin {
   color: var(--green);

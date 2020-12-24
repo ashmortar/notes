@@ -59,8 +59,8 @@
   --ls-block-highlight-color: var(--current-line);
   --ls-block-properties-background-color: var(--light-background);
 
-  --ls-page-checkbox-color: transparent;
-  --ls-page-checkbox-border-color: var(--pink);
+  --ls-page-checkbox-color: var(--background);
+  --ls-page-checkbox-border-color: var(--text-accent);
   --ls-page-blockquote-color: var(--foreground);
   --ls-page-blockquote-bg-color: var(--light-background);
   --ls-page-blockquote-border-color: var(--yellow);

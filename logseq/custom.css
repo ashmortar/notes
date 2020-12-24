@@ -269,3 +269,20 @@ mark {
 #right-sidebar pre.CodeMirror-line {
   background: transparent;
 }
+
+/*=== h1 h2 ====*/
+.dark-theme .page-references h2, .dark-theme h1.title {
+    color: var(--text-accent);
+}
+/* === page ref [[]]===*/
+span.page-reference a.page-ref {
+    color:#feb86cd4;    
+    }
+/* === page ref title ===*/
+div.hd-control a.page-ref {
+    color:#BEBEBF;    
+    }
+/* === links ====*/ 	
+.dark-theme .content a {
+    color:#94c862c9;
+}

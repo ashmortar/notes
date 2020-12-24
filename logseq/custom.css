@@ -83,6 +83,7 @@ body {
   letter-spacing: 0.002em;
   line-height: 1.5;
   background: var(--background);
+  background-color: var(--background);
 }
 
 i {

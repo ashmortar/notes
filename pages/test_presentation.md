@@ -4,7 +4,6 @@ title: test presentation
 
 ## This is the first slide:
 :PROPERTIES:
-:transition: concave
 :END:
 ###
 $$ J(\theta_0,\theta_1) = \sum_{i=0} $$

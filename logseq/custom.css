@@ -284,5 +284,5 @@ div.hd-control a.page-ref {
     }
 /* === links ====*/ 	
 .dark-theme .content a {
-    color:#94c862c9;
+    color: var(--text-links);
 }

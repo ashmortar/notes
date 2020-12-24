@@ -9,7 +9,7 @@ title: test presentation
 ### This is sub-slide 1
 ### this is sub-slide 2
 #### - sub sub 1
-#### - sub sub 2
+#### - video background?
 :PROPERTIES:
 :background-video: https://static.slid.es/site/homepage/v1/homepage-video-editor.mp4
 :END:

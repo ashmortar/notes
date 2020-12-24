@@ -13,7 +13,6 @@ title: test presentation
 :PROPERTIES:
 :background-video: https://static.slid.es/site/homepage/v1/homepage-video-editor.mp4
 :background-interactive: true
-
 :END:
 ## This is the second slide, which isn't a "header"
 ##

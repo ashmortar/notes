@@ -4,6 +4,7 @@ title: test presentation
 
 ## This is the first slide:
 :PROPERTIES:
+convex-in concave-out
 :END:
 ###
 $$ J(\theta_0,\theta_1) = \sum_{i=0} $$

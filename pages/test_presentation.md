@@ -19,6 +19,9 @@ title: test presentation
 :transition: zoom-out fade-in 
 :END:
 ### But we can see math:
+PROPERTIES:
+:transition: zoom-out fade-in 
+:END:
 ###
 $$
 \frac{1}{\Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{\frac25 \pi}} = 1+\frac{e^{-2\pi}} 

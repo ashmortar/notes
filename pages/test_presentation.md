@@ -8,7 +8,7 @@ title: test presentation
 :END:
 ### This is sub-slide 1
 :PROPERTIES:
-:auto-animate: true 
+:auto-animate: true
 :END:
 ### this is sub-slide 1 
 :PROPERTIES:

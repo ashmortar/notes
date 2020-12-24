@@ -106,11 +106,11 @@
 
 html,
 body {
-  font-weight: var(--ls-font-weight);
-  letter-spacing: var(--ls-font-letter-spacing);
-  line-height: var(--ls-font-line-height);
-  font-size: var(--ls-page-text-size);
-  background-color: #282a36;
+  font-weight: var(--ls-font-weight)!important;
+  letter-spacing: var(--ls-font-letter-spacing)!important;
+  line-height: var(--ls-font-line-height)!important;
+  font-size: var(--ls-page-text-size)!important;
+  background-color: #282a36!important;
 }
 
 i {

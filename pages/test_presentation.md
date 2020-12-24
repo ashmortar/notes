@@ -7,6 +7,9 @@ title: test presentation
 :heading: true
 :END:
 ### This is sub-slide 1
+:PROPERTIES:
+:transition: zoom 
+:END:
 ### this is sub-slide 2
 ## This is the second slide, which isn't a "header"
 ## This is the third slide:

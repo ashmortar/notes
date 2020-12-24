@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;700&family=Fira+Sans:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+
 :root {
   --background: #282a36;
   --light-background: #343746;
@@ -8,44 +10,61 @@
   --current-line: #44475a;
   --comment: #6272a4;
   --white: var(--foreground);
+  --white-hover: #f8f8f280;
   --red: #ff5555;
   --orange: #ffb86c;
   --yellow: #f1fa8c;
   --green: #50fa7b;
   --purple: #bd93f9;
-  --purple-hover: #bf93f988;
+  --purple-hover: #bf93f980;
   --cyan: #8be9fd;
-  --cyan-hover: #8be9fd88;
+  --cyan-hover: #8be9fd80;
   --pink: #ff79c6;
-  --pink-hover: #ff79c688;
+  --pink-hover: #ff79c680;
 
   --ls-tag-text-opacity: 0.8;
   --ls-tag-text-hover-opacity: 0.8;
-  --ls-page-text-size: 14px;
-  --ls-page-title-size: 34px;
-  --ls-font-family: "FiraCode Nerd Font", "Fira Code", "Inter";
+  --ls-page-text-size: 16px;
+  --ls-page-title-size: 36px;
+  --ls-font-family: "Fira Sans";
+  --ls-font-weight: 300;
+  --ls-font-letter-spacing: 0.002em;
+  --ls-font-line-height: 1.5;
+
+  --ls-border-radius-low: 3px;
+  --ls-border-radius-medium: 6px;
 }
+
 .dark-theme {
   --ls-primary-background-color: var(--background);
   --ls-secondary-background-color: var(--dark-background);
   --ls-tertiary-background-color: var(--light-background);
   --ls-quaternary-background-color: var(--light-background);
+  --ls-quinary-background-color: var(--darker-background);
+
+  --ls-active-primary-color: var(--foreground);
+  --ls-active-secondary-color: var(--foreground);
 
   --ls-primary-text-color: var(--foreground);
-  --ls-secondary-text-color: var(--foreground);
+  --ls-secondary-text-color: var(--white-hover);
 
   --ls-search-background-color: var(--background);
   --ls-border-color: var(--comment);
   --ls-menu-hover-color: var(--light-background);
+  --ls-table-tr-even-background-color: var(--light-background);
 
   --ls-head-text-color: var(--foreground);
   --ls-title-text-color: var(--foreground);
+
   --ls-link-text-color: var(--pink);
   --ls-link-text-hover-color: var(--pink-hover);
-  --ls-link-ref-text-color: var(--purple);
-  --ls-link-ref-text-hover-color: var(--purple-hover);
-  --ls-tag-text-color: var(--cyan);
-  --ls-tag-text-hover-color: var(--cyan-hover);
+
+  --ls-link-ref-text-color: var(--pink);
+  --ls-link-ref-text-hover-color: var(--pink-hover);
+  --ls-block-ref-link-text-color: var(--ls-border-color);
+
+  --ls-tag-text-color: var(--purple);
+  --ls-tag-text-hover-color: var(--purple-hover);
 
   --ls-block-bullet-border-color: var(--current-line);
   --ls-block-bullet-color: var(--foreground);
@@ -54,6 +73,7 @@
 
   --ls-page-checkbox-color: transparent;
   --ls-page-checkbox-border-color: var(--comment);
+
   --ls-page-blockquote-color: var(--foreground);
   --ls-page-blockquote-bg-color: var(--light-background);
   --ls-page-blockquote-border-color: var(--yellow);
@@ -61,20 +81,26 @@
   --ls-page-inline-code-color: var(--orange);
   --ls-page-inline-code-bg-color: var(--background);
 
-  --ls-scrollbar-color: var(--background);
+  --ls-scrollbar-background-color: var(--background);
+  --ls-scrollbar-foreground-color: var(--darker-background);
   --ls-scrollbar-thumb-hover-color: var(--light-background);
 
-  --ls-icon-color: var(--foreground);
-  --ls-search-icon-color: var(--foreground);
+  --ls-icon-color: var(--white-hover);
+  --ls-search-icon-color: var(--white-hover);
   --ls-a-chosen-bg: var(--light-background);
   --ls-right-sidebar-code-bg-color: var(--light-background);
+  --ls-selection-background-color: var(--comment);
+  --ls-slide-background-color: var(--ls-primary-background-color);
+  --ls-guideline-color: var(--ls-border-color);
 }
 
 html,
 body {
-  font-weight: 200;
-  letter-spacing: 0.002em;
-  line-height: 1.5;
+  font-weight: var(--ls-font-weight);
+  letter-spacing: var(--ls-font-letter-spacing);
+  line-height: var(--ls-font-line-height);
+  font-size: var(--ls-page-text-size);
+  background-color: #282a36;
 }
 
 i {
@@ -89,16 +115,52 @@ mark {
   background-color: var(--yellow);
 }
 
+.bg-orange-400 {
+  background-color: var(--orange);
+}
+
+.bg-green-600 {
+  background-color: var(--green);
+}
+
+.dark-theme .form-checkbox {
+  border: 1px solid var(--ls-page-checkbox-border-color) !important;
+  border-radius: var(--ls-border-radius-low) !important;
+}
+
+.external-link {
+  color: var(--cyan);
+  text-decoration: none;
+  border-bottom: none;
+}
+
+.external-link:hover {
+  color: var(--cyan-hover);
+}
+
+.ls-block h1,
+.ls-block h2,
+.ls-block h3,
+.ls-block h4,
+.ls-block h5,
+.ls-block h6 {
+  font-weight: 400;
+}
+
 /*
-    Name:       dracula
+
+    Name:       dracula for CodeMirror
     Author:     Michael Kaminsky (http://github.com/mkaminsky11)
     Adapted:    Sly Bouhafs
+
+
     Original dracula color scheme by Zeno Rocha (https://github.com/zenorocha/dracula-theme)
-    Adapted to logseq
+    Adapted for logseq
+
 */
 
 .CodeMirror {
-  font-family: "FiraCode Nerd Font Mono", "Fire Code Mono", monospace;
+  font-family: "FiraCode Nerd Font", "Fire Code", monospace;
   line-height: 1.2;
   background: var(--background);
 }

@@ -82,6 +82,7 @@ body {
   font-weight: 200;
   letter-spacing: 0.002em;
   line-height: 1.5;
+  background: var(--background);
 }
 
 i {

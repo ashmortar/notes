@@ -234,3 +234,22 @@ div.hd-control a.page-ref {
 .dark-theme .content a {
     color:#94c862c9;
 }
+/* === checkboxes ===*/
+.form-checkbox {
+    display: inline-block;
+    vertical-align: middle;
+    background-origin: border-box;
+    user-select: none;
+    flex-shrink: 0;
+    height: 1rem;
+    width: 1rem;
+    border-color: var(--text-accent2) !important;
+	background-color: var(--bgcolor-alt2) !important;
+    border-width: 1px;
+    border-radius: 50%;
+}
+
+.dark-theme tr:nth-child(2n),
+.dark-theme tr:nth-child(2n+1) {
+    background: var(--bgcolor-alt);
+}

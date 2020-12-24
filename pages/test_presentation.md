@@ -13,7 +13,7 @@ $$ J(\theta_0,\theta_1) = \sum_{i=0} $$
 ### this is sub-slide 2
 #### - sub sub 1
 :PROPERTIES:
-:transition: concave
+:transition: convex-in concave-out
 :END:
 #### - video background?
 :PROPERTIES:

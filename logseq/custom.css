@@ -221,11 +221,6 @@ mark {
 
 
 /* overrides */
-
-/*=== h1 h2 ====*/
-.dark-theme .page-references h2, .dark-theme h1.title {
-    color: var(--text-accent);
-}
 /* === page ref [[]]===*/
 span.page-reference a.page-ref {
     color:#feb86cd4;    

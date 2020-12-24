@@ -11,7 +11,7 @@ title: test presentation
 #### - sub sub 1
 #### - sub sub 2
 :PROPERTIES:
-:background-video:  
+:background-video: https://static.slid.es/site/homepage/v1/homepage-video-editor.mp4
 :END:
 ## This is the second slide, which isn't a "header"
 ## This is the third slide:

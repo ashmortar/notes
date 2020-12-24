@@ -219,6 +219,9 @@ mark {
   background: transparent;
 }
 
+
+/* overrides */
+
 /*=== h1 h2 ====*/
 .dark-theme .page-references h2, .dark-theme h1.title {
     color: var(--text-accent);
@@ -239,10 +242,7 @@ div.hd-control a.page-ref {
 a.block-control {
     color:#feb86cd4!important;
 }
-/*=== highlights ====*/
-mark {
-    background: var(--highlight);
-}
+
 /* === bullets ====*/ 	
 .dark-theme .bullet-container .bullet {
     background-color: var(--text-accent2);

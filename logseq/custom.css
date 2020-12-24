@@ -276,11 +276,11 @@ mark {
 }
 /* === page ref [[]]===*/
 span.page-reference a.page-ref {
-    color: var(--text-accent);    
+    color: var(--text-hover);    
     }
 /* === page ref title ===*/
 div.hd-control a.page-ref {
-    color:#BEBEBF;    
+    color: var(--text-accent);    
     }
 /* === links ====*/ 	
 .dark-theme .content a {

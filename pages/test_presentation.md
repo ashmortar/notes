@@ -12,7 +12,7 @@ title: test presentation
 :PROPERTIES:
 :fragment-index: 2
 :END:
-I come in first 
+- I come in first 
 :PROPERTIES:
 :fragment-index: 1 
 :END:

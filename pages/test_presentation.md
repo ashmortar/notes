@@ -6,8 +6,7 @@ title: test presentation
 :PROPERTIES:
 :heading: true
 :END:
-### This is sub-slide 1
-- `$$ J(\theta_0,\theta_1) = \sum_{i=0} $$`
+### `$$ J(\theta_0,\theta_1) = \sum_{i=0} $$`
 ### this is sub-slide 2
 #### - sub sub 1
 #### - video background?
